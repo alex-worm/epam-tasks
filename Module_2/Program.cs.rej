@@ -1,0 +1,6 @@
+diff a/Program.cs b/Program.cs	(rejected hunks)
+@@ -2,3 +3,4 @@
++п»їusing System;
+ using System.Collections.Generic;
+ using System.Globalization;
+ using System.Net;
